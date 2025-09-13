@@ -1,5 +1,10 @@
 # LCU Dumper (raw JSON)
 
+<p align="center">
+  <img src="lcu_dumper_demo.gif" alt="LCU Dumper demo" width="700" />
+  
+</p>
+
 LCU Dumper is a cross-platform CLI that connects to the League Client Update (LCU) API via the lockfile and dumps selected endpoints to timestamped JSON files. It is safe by default, fast, and designed for iterative exploration (discover -> analyze -> dump).
 
 ## Highlights
