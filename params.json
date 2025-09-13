@@ -1,0 +1,9 @@
+{
+  "/lol-summoner/v1/summoners/{summonerId}": [
+    {"summonerId": 12345}
+  ],
+  "/lol-chat/v1/conversations/{id}/messages": [
+    {"id": "00000000-0000-0000-0000-000000000000"}
+  ]
+}
+
